@@ -1,10 +1,9 @@
 ## Hey, I'm Christopher 👨🏻‍💻
-<hr>
-I am currently an undergraduate who's passions lie in machine learning, natural language and big data processing. I largely work in ```Python``` and am a big fan of ```Hugging Face 🤗```, ```Elasticsearch & Kibana```, ```Poetry ``` and ```Gensim``` to name a few. In my free time, you can find me glued to my PS4 playing obselete versions of NBA2K and FIFA ⚡.
+I am currently an undergraduate who's passions lie in machine learning, natural language and big data processing. I largely work in ```Python``` and am a big fan of Hugging Face 🤗, Elasticsearch & Kibana, Poetry and Gensim to name a few. In my free time, you can find me glued to my PS4 playing obselete versions of NBA2K and FIFA ⚡ in an attempt to vicariously shed some pounds.
+
 
 
 ## Languages & Tools
-<hr>
  <!-- The lack of line breaks within anchor tags is due to a weird underline appearing when line breaks are present. -->
 <p align="center">
   <a href="https://www.python.org/" title="Python"><img src="icons/python/python-plain.svg" height="35" width="auto" /></a>
