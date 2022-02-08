@@ -12,7 +12,7 @@ I am currently an undergraduate who's passions lie in machine learning, natural 
    &nbsp;
   <a href="https://spark.apache.org/docs/latest/" title="Spark"><img src="icons/apache/spark.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="Hugging Face Co"><img src="icons/huggingface/hf.svg" height="35" width="auto" /></a>
+  <a href="https://huggingface.co" title="Hugging Face Co"><img src="icons/huggingface/hf.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://pytorch.org/docs/stable/index.html" title="PyTorch"><img src="icons/pytorch/torch.svg" height="35" width="auto" /></a>
   &nbsp;
