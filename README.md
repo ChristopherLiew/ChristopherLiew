@@ -1,5 +1,5 @@
-## Hey, I'm Christopher 👨🏻‍💻
-I am currently an undergraduate who's passions lie in machine learning, natural language and big data processing. I largely work in ```Python``` and am a big fan of Hugging Face 🤗, Elasticsearch & Kibana, Poetry and Gensim to name a few. In my free time, you can find me glued to my PS4 playing obselete versions of NBA2K and FIFA ⚡ in an attempt to vicariously shed some pounds.
+## Hey there, I'm Christopher 👨🏻‍💻
+I am an undergraduate @ NUS whose passion lies in machine learning systems, natural language and big data processing. I largely work in Python and am a big fan of Hugging Face 🤗, Elasticsearch & Kibana, Poetry and Gensim to name a few. In my free time, you can find me glued to my PS4 playing obselete versions of NBA2K and FIFA ⚡ in an attempt to vicariously shed some pounds.
 
 
 
