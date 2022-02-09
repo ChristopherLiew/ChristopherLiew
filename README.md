@@ -6,7 +6,7 @@ I am an undergraduate @ NUS whose passion lies in machine learning systems, natu
 ## Languages & Tools
  <!-- The lack of line breaks within anchor tags is due to a weird underline appearing when line breaks are present. -->
 <p align="center">
-  <a href="https://www.python.org/" title="Python"><img src="icons/python/python-plain.svg" height="35" width="auto" /></a>
+  <a href="https://www.python.org/" title="Python"><img src="icons/python/python-original.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.java.com/en/" title="Java"><img src="icons/java/java-original.svg" height="35" width="auto" /></a>
    &nbsp;
