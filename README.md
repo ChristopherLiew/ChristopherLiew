@@ -6,7 +6,7 @@ I am an undergraduate @ NUS whose passion lies in natural language processing, b
 <p align="center">
   <a href="https://www.python.org/" title="Python"><img src="icons/python/python-original.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https:/www.scala-lang.org/" title="Scala"><img src="icons/scala/scala-plain.svg" height="35" width="auto" /></a>
+  <a href="https:/www.scala-lang.org/" title="Scala"><img src="icons/scala/scala-original.svg" height="35" width="auto" /></a>
    &nbsp;
   <a href="https://www.java.com/en/" title="Java"><img src="icons/java/java-original.svg" height="35" width="auto" /></a>
    &nbsp;
