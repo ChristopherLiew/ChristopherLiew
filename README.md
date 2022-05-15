@@ -1,11 +1,13 @@
 ## Hey there, I'm Christopher 👨🏻‍💻
-I am an undergraduate @ NUS whose passion lies in natural language processing, big data and ML systems. I largely work in Python and am a big fan of the great tools built by Hugging Face 🤗 and Elastic. In my free time, you can find me glued to my PS4 playing obselete versions of NBA2K and FIFA ⚡ in an attempt to vicariously shed some pounds.
+I am an undergraduate @ NUS whose passion lies in natural language processing, big data and data platforms. I largely work in Python and am a big fan of the great tools built by Hugging Face 🤗 and Elastic. In my free time, you can find me glued to my PS4 playing obselete versions of NBA2K and FIFA ⚡ in an attempt to vicariously shed some pounds.
 
 ## Languages & Tools
  <!-- The lack of line breaks within anchor tags is due to a weird underline appearing when line breaks are present. -->
 <p align="center">
   <a href="https://www.python.org/" title="Python"><img src="icons/python/python-original.svg" height="35" width="auto" /></a>
   &nbsp;
+  <a href="https:/www.scala-lang.org/" title="Scala"><img src="icons/scala/scala-plain.svg" height="35" width="auto" /></a>
+   &nbsp;
   <a href="https://www.java.com/en/" title="Java"><img src="icons/java/java-original.svg" height="35" width="auto" /></a>
    &nbsp;
   <a href="https://spark.apache.org/docs/latest/" title="Spark"><img src="icons/apache/spark.svg" height="35" width="auto" /></a>
