@@ -12,7 +12,7 @@ I am an undergraduate @ NUS whose passion lies in natural language processing, b
    &nbsp;
   <a href="https://spark.apache.org/docs/latest/" title="Spark"><img src="icons/apache/spark.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://kafka.apache.org/documentation/" title="Kafka"><img src="icons/apache/apachekafka-original.svg" height="35" width="auto" /></a>
+  <a href="https://kafka.apache.org/documentation/" title="Kafka"><img src="icons/apachekafka/apachekafka-original.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://huggingface.co" title="Hugging Face Co"><img src="icons/huggingface/hf.svg" height="35" width="auto" /></a>
   &nbsp;
