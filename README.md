@@ -6,11 +6,13 @@ I am an undergraduate @ NUS whose passion lies in natural language processing, b
 <p align="center">
   <a href="https://www.python.org/" title="Python"><img src="icons/python/python-original.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https:/www.scala-lang.org/" title="Scala"><img src="icons/scala/scala-original.svg" height="35" width="auto" /></a>
-   &nbsp;
   <a href="https://www.java.com/en/" title="Java"><img src="icons/java/java-original.svg" height="35" width="auto" /></a>
    &nbsp;
+  <a href="https:/www.scala-lang.org/" title="Scala"><img src="icons/scala/scala-original.svg" height="35" width="auto" /></a>
+   &nbsp;
   <a href="https://spark.apache.org/docs/latest/" title="Spark"><img src="icons/apache/spark.svg" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://kafka.apache.org/documentation/" title="Kafka"><img src="icons/apache/apachekafka-original.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://huggingface.co" title="Hugging Face Co"><img src="icons/huggingface/hf.svg" height="35" width="auto" /></a>
   &nbsp;
