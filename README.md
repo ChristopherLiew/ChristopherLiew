@@ -8,7 +8,7 @@ I am an undergraduate @ NUS whose passion lies in big data platforms and natural
   &nbsp;
   <a href="https://www.java.com/en/" title="Java"><img src="icons/java/java-original.svg" height="35" width="auto" /></a>
    &nbsp;
-  <a href="https:/www.scala-lang.org/" title="Scala"><img src="icons/scala/scala-original.svg" height="35" width="auto" /></a>
+  <a href="https://go.dev/" title="Go"><img src="icons/go/go-original.svg" height="35" width="auto" /></a>
    &nbsp;
   <a href="https://spark.apache.org/docs/latest/" title="Spark"><img src="icons/apache/spark.svg" height="35" width="auto" /></a>
   &nbsp;
