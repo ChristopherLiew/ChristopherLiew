@@ -1,5 +1,5 @@
 ## Hey there, I'm Christopher 👨🏻‍💻
-I am an undergraduate @ NUS whose passion lies in big data platforms and natural language processing. I largely work in Python and am a big fan of the great tools developed by Hugging Face 🤗, Elastic and Apache (Spark, Kafka, Hive, Flink, etc.). In my free time, you can find me glued to my PS4 playing obselete versions of NBA2K and FIFA ⚡ in an attempt to vicariously shed some pounds.
+I am a big data engineer whose interests and passions lie in databases, distributed systems, big data processing as well as natural language processing. You can find my passion + learning / school projects messily dumped here (cos that's what repositories are for right), though its due for some committed progress and refactoring (tech debt is real 😳).
 
 ## Languages & Tools
  <!-- The lack of line breaks within anchor tags is due to a weird underline appearing when line breaks are present. -->
