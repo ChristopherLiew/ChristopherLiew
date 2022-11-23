@@ -33,7 +33,7 @@ I am a big data engineer whose interests and passions lie in databases, distribu
 
 <hr>
 <a href="https://github.com/christopherliew/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=christopherliew&theme=radical&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=christopherliew&theme=radical&show_icons=true&count_private=true" />
 </a>
 
 <a href="https://github.com/christopherliew/github-readme-stats">
