@@ -31,7 +31,7 @@ I am a big data engineer whose interests and passions lie in databases, distribu
 </p>
 <!-- markdownlint-enable MD033 -->
 
-<hr>
+## Random & Meaningless Stats
 <a href="https://github.com/christopherliew/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=christopherliew&theme=radical&show_icons=true&count_private=true" />
 </a>
