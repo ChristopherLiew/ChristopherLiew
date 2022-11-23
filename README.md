@@ -36,6 +36,6 @@ I am a big data engineer whose interests and passions lie in databases, distribu
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=christopherliew&theme=radical&show_icons=true&count_private=true" />
 </a>
 
-<a href="https://github.com/christopherliew/github-readme-stats">
+<!-- <a href="https://github.com/christopherliew/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopherliew&layout=compact&hide=Jupyter%20Notebook,MATLAB&theme=radical" />
-</a>
+</a> -->
