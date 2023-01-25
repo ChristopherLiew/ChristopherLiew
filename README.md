@@ -1,5 +1,5 @@
 ## Hey there, I'm Christopher 👨🏻‍💻
-I am a software engineer whose interests and passions lie in databases, distributed systems, big data processing as well as natural language processing. You can find my passion + learning / school projects messily dumped here (cos that's what repositories are for right), though its due for some committed progress and refactoring (tech debt is real 😳).
+I am a software engineer whose interests and passions lie in databases, distributed systems, big data processing as well as natural language processing. You can find my passion + learning / school projects messily dumped here (cos that's what repositories are for right), though its due for some committed progress and refactoring (tech debt is real 😳) and other messily strewn and half finished notes [here](https://chrisliew.gitbook.io/chrisliew-and-tech/) on tech-related readings and exploits.
 
 ## Languages & Tools
  <!-- The lack of line breaks within anchor tags is due to a weird underline appearing when line breaks are present. -->
