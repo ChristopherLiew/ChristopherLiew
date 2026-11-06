@@ -4,6 +4,6 @@ Previously built backend services for ByteDance's Ads Data Platform, with the od
 
 Interested in databases, distributed systems and big data processing.
 
-<img src="https://skillicons.dev/icons?i=go,java,cpp,python,ts,spring,kafka,redis" height="40" alt="Go, Java, C++, Python, TypeScript, Spring, Kafka, Redis" />
+<img src="https://skillicons.dev/icons?i=go,java,cpp,ts,spring,kafka,redis" height="40" alt="Go, Java, C++, TypeScript, Spring, Kafka, Redis" />
 
 [LinkedIn](https://www.linkedin.com/in/chrisjy)
