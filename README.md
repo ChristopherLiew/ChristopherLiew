@@ -1,4 +1,4 @@
-Backend engineer on TikTok Search in Singapore, working on AI search and the TikTok Tako Local Service Agent. Mostly Go, Java and C++.
+Backend engineer on TikTok Search in Singapore, working on AI search and the TikTok Tako Local Service Agent. Mostly Go ([Kitex](https://github.com/cloudwego/kitex)/[Hertz](https://github.com/cloudwego/hertz)), Java and C++.
 
 Previously built backend services for ByteDance's Ads Data Platform, with the odd shift as a ClickHouse SRE.
 
