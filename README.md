@@ -2,8 +2,6 @@ Backend engineer on TikTok Search in Singapore, working on AI search and the Loc
 
 Previously built backend services for ByteDance's Ads Data Platform, with the odd shift as a ClickHouse SRE.
 
-Interested in databases, distributed systems and big data processing.
-
 <img src="https://skillicons.dev/icons?i=go,java,cpp,ts,spring,kafka,redis,mysql" height="40" alt="Go, Java, C++, TypeScript, Spring, Kafka, Redis, MySQL" />
 
 [LinkedIn](https://www.linkedin.com/in/chrisjy)
